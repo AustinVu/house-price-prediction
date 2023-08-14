@@ -7,7 +7,7 @@ pipeline {
     }
 
     environment{
-        registry = 'AustinVu/house-price-prediction-api'  
+        registry = 'vuhona/house-price-prediction-api'  
         registryCredential = 'dockerhub'      
     }
 
